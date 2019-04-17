@@ -1,4 +1,4 @@
  #!/bin/bash
  
-apt-get install default-jdk
-apt-get install scala
+sudo apt-get install default-jdk
+sudo apt-get install scala
